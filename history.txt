@@ -1,0 +1,21 @@
+{num1=22, type=sum, num2=11}
+Result = 33
+
+{num1=11, type=sum, num2=11}
+Result = 22
+
+{num1=11, type=sum, num2=1}
+Result = 12
+
+{num1=11, type=mul, num2=15}
+Result = 165
+
+{num1=105, type=div, num2=15}
+Result = 7
+
+{num1=105, type=sub, num2=94}
+Result = 11
+
+{num1=1213, type=sub, num2=94}
+Result = 1119
+
